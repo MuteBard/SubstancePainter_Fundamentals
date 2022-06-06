@@ -22,7 +22,7 @@
 ![](../images/DEV-15/DEV-15-B4.png)
 
 
-## Topic Apply face design
+## Apply face design
 ![](../images/DEV-15/DEV-15-C1.png)
 
 ![](../images/DEV-15/DEV-15-C2.png)
