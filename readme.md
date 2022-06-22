@@ -20,3 +20,7 @@
     F2 | Enable the 3D viewport only
     
     F3 | Enable the 2D viewport only
+
+## Asset libraries
+<https://substance3d.adobe.com/assets>
+<https://share-legacy.substance3d.com>

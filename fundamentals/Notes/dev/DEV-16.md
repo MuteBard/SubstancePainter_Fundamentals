@@ -1,6 +1,6 @@
-# DEV-16,
+# DEV-16, Using pngs as stencils
 ### Tags: []
-### Link:[<>]
+### Link:[<https://academy.cgboost.com/courses/substance-painter-launch-pad/lectures/13135240>]
 
 ## Topic A
 ![](../images/DEV-16/DEV-16-A1.png)

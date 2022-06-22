@@ -2,7 +2,7 @@
 ### Tags: []
 ### Link:[<>]
 
-## Topic A
+## Section out hull part
 ![](../images/DEV-17/DEV-17-A1.png)
 
 ![](../images/DEV-17/DEV-17-A2.png)
@@ -27,7 +27,10 @@
 
 ![](../images/DEV-17/DEV-17-A12.png)
 
-## Topic B
+## Get texture from substance 3d
+
+<https://substance3d.adobe.com/assets/allassets?q=alien&u=alien>
+
 ![](../images/DEV-17/DEV-17-B1.png)
 
 ![](../images/DEV-17/DEV-17-B2.png)
